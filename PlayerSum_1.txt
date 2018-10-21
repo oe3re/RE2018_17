@@ -1,0 +1,6 @@
+ID igraca:1
+--------------------
+Broj partije:1
+Kombinacija:1
+Izvuceni brojevi:41 51 75 46 39 37 43 15 37 13
+Broj osvojenih poena:0
